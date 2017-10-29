@@ -1,2 +1,2 @@
 # Korean-Tourism
-Recreating the Korean Tourism Website.
+Recreating the user interface Korean Tourism Website.
